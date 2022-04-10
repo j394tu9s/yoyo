@@ -69,7 +69,7 @@ cat <<EOF >/etc/v2ray/config.json
 		"streamSettings": {
 			"network": "ws",
 			"wsSettings": {
-					"path": "/app"
+					"path": "/ea3fd7ca-fca2-4301-90e4-ad448848c85e-vless"
 				}
 			}
 		}
